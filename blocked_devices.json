@@ -1,10 +1,6 @@
 {
   "approved": [
-    {
-      "platform": "Windows1",
-      "node": "DESKTOP-6SV79BQ1",
-      "machine": "AMD641"
-    }
+
   ],
   "blocked": []
 }
