@@ -16,11 +16,5 @@
       "machine": "aarch64"
     }
   ],
-  "blocked": [
-        {
-      "platform": "Linux",
-      "node": "localhost",
-      "machine": "aarch64"
-    }
-  ]
+  "blocked": []
 }
