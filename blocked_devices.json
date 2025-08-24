@@ -9,6 +9,11 @@
       "platform": "Windows",
       "node": "DESKTOP-6157TNA",
       "machine": "AMD64"
+    },
+    {
+      "platform": "Linux",
+      "node": "localhost",
+      "machine": "aarch64"
     }
   ],
   "blocked": []
