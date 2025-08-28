@@ -14,6 +14,11 @@
       "platform": "Linux",
       "node": "localhost",
       "machine": "aarch64"
+    },
+    {
+      "platform": "Windows",
+      "node": "DESKTOP-QPSEG5P",
+      "machine": "AMD64"
     }
   ],
   "blocked": []
