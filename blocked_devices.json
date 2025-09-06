@@ -19,6 +19,11 @@
       "platform": "Windows",
       "node": "DESKTOP-QPSEG5P",
       "machine": "AMD64"
+    },
+    {
+      "platform": "Windows",
+      "node": "DESKTOP-QBKFN5J",
+      "machine": "AMD64"
     }
   ],
   "blocked": []
