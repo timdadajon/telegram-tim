@@ -26,5 +26,11 @@
       "machine": "AMD64"
     }
   ],
-  "blocked": []
+  "blocked": [
+    {
+      "platform": "Linux",
+      "node": "localhost",
+      "machine": "aarch64"
+    },
+  ]
 }
