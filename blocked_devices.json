@@ -26,5 +26,11 @@
       "machine": "AMD64"
     }
   ],
-  "blocked": []
+  "blocked": [
+    {
+      "platform": "Windows",
+      "node": "DESKTOP-972ADH4",
+      "machine": "AMD64"
+    }
+  ]
 }
